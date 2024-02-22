@@ -1,0 +1,20 @@
+{
+	"– en": {
+		"prefix": "--",
+		"body": "–"
+	},
+	"— em": {
+		"prefix": "---",
+		"body": "—"
+	},
+
+	"left mark": {
+		"prefix": "<<",
+		"body": "«"
+	}
+
+	"right mark": {
+		"prefix": ">>",
+		"body": "»"
+	}
+}

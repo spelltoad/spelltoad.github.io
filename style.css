@@ -1,5 +1,19 @@
 body {
   background-color:black;
-  color:silver;
+  color:white;
   font-family:georgia;
+}
+
+p {
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+a {
+  text-decoration:none;
+  color:white
+}
+
+a:hover {
+  color:silver;
 }

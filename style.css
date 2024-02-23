@@ -4,6 +4,10 @@ body {
   font-family:georgia;
 }
 
+h1 {
+  color:white
+}
+
 p {
   text-align: justify;
   margin-left: 5%;

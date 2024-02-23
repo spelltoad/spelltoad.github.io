@@ -1,10 +1,15 @@
 body {
   background-color:black;
   color:silver;
-  font-family:georgia;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
+  color:white
+}
+
+mark {
+  background:none;
   color:white
 }
 

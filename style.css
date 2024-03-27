@@ -18,6 +18,7 @@ figure {
 }
 
 figcaption {
+  color: white;
   padding: 5pt;
   text-align: center;
 }

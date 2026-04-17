@@ -350,5 +350,42 @@ zh-HK: &DEFAULT_ZH_HK
 zh-TW:
   <<: *DEFAULT_ZH_HK
 
+ru: &DEFAULT_RU
+  page                       : "Страница"
+  pagination_previous        : "<"
+  pagination_next            : ">"
+  breadcrumb_home_label      : "Главная"
+  breadcrumb_separator       : "/"
+  toc_label                  : "На этой странице"
+  ext_link_label             : "Прямая ссылка"
+  less_than                  : "менее"
+  minute_read                : "минут чтения"
+  share_on_label             : "Поделиться:"
+  meta_label                 : 
+  tags_label                 : "Теги:"
+  categories_label           : "Категории:"
+  date_label                 : "Опубликовано:"
+  comments_label             : "Оставить комментарий"
+  comments_title             : "Комментарии"
+  more_label                 : "Подробнее"
+  related_label              : "Вам также может понравиться"
+  follow_label               : "Подписаться:"
+  feed_label                 : "Лента"
+  powered_by                 : "Работает на"
+  website_label              : "Веб-сайт"
+  email_label                : "Email"
+  recent_posts               : "Последние записи"
+  undefined_wpm              : "Параметр words_per_minute не определен в _config.yml"
+  comment_form_info          : "Ваш адрес электронной почты не будет опубликован. Обязательные поля помечены"
+  comment_form_comment_label : "Комментарий"
+  comment_form_md_info       : "Поддерживается синтаксис Markdown."
+  comment_form_name_label    : "Имя"
+  comment_form_email_label   : "Адрес электронной почты"
+  comment_form_website_label : "Веб-сайт (необязательно)"
+  comment_btn_submit         : "Отправить комментарий"
+  comment_btn_submitted      : "Отправлено"
+  comment_success_msg        : "Спасибо за комментарий! Он отобразится на сайте после модерации."
+  comment_error_msg          : "Произошла ошибка при отправке. Пожалуйста, убедитесь, что заполнены все обязательные поля, и попробуйте снова."
+  loading_label              : "Загрузка..."
 # Another locale
 # --------------

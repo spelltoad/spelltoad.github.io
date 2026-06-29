@@ -1,9 +1,9 @@
 ---
-title: "mandelgrow"
-excerpt: "Веб-idle игра на go с postgres"
+title: "kspdo"
+excerpt: "Тестовый poc проект на ansible+prometheus+terraform"
 collection: portfolio
 ---
 
-[github](https://github.com/spelltoad/mandelgrow)
+[github](https://github.com/spelltoad/kasperskydevops)
 
-Проект, преимущественно написанный AI инструментами (cline+gemini+mcp, cursor) в рекреационно-образовательных целях для теста навыков web go разработки и интеграции баз данных. Подробнее в репозитории.
+Написан для ознакомления с технологиями автоматизации и виртуализации. Автоматически деплоит ВМ через terraform (или vagrant, на усмотрение пользователя), разворачивает docker-контейнер через ansible и пробрасывает prometheus метрики на машину-хост. Подробнее см. репозиторий. 
